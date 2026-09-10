@@ -10,6 +10,7 @@ window.WOMM_MESSAGES = {
     "Interesting. I've never seen it do that before.",
     "Please don't touch anything. It is somehow working.",
     "The bug cannot be reproduced now that someone important is watching."
+    "Our interns are working realy hard to give us good updates"
   ],
   solutions: [
     "Restart exactly one thing and look confident.",
