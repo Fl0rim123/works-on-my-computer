@@ -4,13 +4,13 @@
 
 ## 1. Deployment identification
 
-- Application:
-- Release / version:
-- Target environment:
-- Repository / project:
-- Branch used for deployment:
-- Date:
-- Author:
+- Application: The Developer Excuse Generator
+- Release / version: 1.0.0
+- Target environment: PRODUCTION
+- Repository / project: Fl0rim123/works-on-my-computer
+- Branch used for deployment: main
+- Date: 10/09/2026
+- Author: Florimond GUILLET
 
 ## 2. Purpose and scope
 
@@ -66,10 +66,10 @@ What must be checked after deployment before you can call the release successful
 
 Record the evidence that another person could use to confirm what happened.
 
-- Project URL:
-- Deployed application URL:
-- Release / version observed:
-- Pipeline / deployment result:
+- Project URL: https://github.com/Fl0rim123/works-on-my-computer.git
+- Deployed application URL: https://fl0rim123.github.io/works-on-my-computer/
+- Release / version observed: 1.0.0
+- Pipeline / deployment result: 
 - Commit or reference:
 - Other useful evidence:
 
