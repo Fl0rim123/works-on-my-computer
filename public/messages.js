@@ -10,14 +10,16 @@ window.WOMM_MESSAGES = {
     "Interesting. I've never seen it do that before.",
     "Please don't touch anything. It is somehow working.",
     "The bug cannot be reproduced now that someone important is watching.",
-    "Our interns are working realy hard to give us good updates."
+    "Our interns are working really hard to give us good updates."
   ],
   solutions: [
     "Restart exactly one thing and look confident.",
     "Read the error message, then pretend that was always the plan.",
     "Check the file path before blaming the network.",
     "Compare staging and production. Then sigh professionally.",
-    "Rollback first, investigate second, explain calmly third."
+    "Rollback first, investigate second, explain calmly third.",
+    "Have you tried to restart the program?",
+    "Try Alt + F4."
   ],
   panic: [
     "Incident mode: make tea, open logs, stop guessing.",
